@@ -5,3 +5,4 @@ Git tracks changes of files.
 
 conflict fixed
 git can merge branches.
+create a new branch dev.
